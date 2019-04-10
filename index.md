@@ -29,7 +29,7 @@ Optimisation of tenancy automation suites and DevOps stack, reducing delivery ti
 
 Implemented ansible based cloud infrastructure deployment automation with a resource time saving of >90%.
 
-Produced container images of open source software to deliver solutions with 12 factor app design principles (build, config, logging.) 
+Produced container images of open source software to deliver solutions with 12 factor app and cloud-native design principles (build, config, logging.) 
 
 Managing and influencing stakeholder expectations through cloud product delivery phases (build, lifecycle and operate).
 
