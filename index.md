@@ -53,13 +53,19 @@ __Level 2 Technical Support__
 
 __Australian Private Networks - Activ8me__ Melbourne, AU
 
-  Facilitated B2B and B2C support across commercial and consumer products.
-  Coached Level 1 and 2 Support agents across the Activ8me product suite and lower level satellite technology.
-  Provided IP site-specific satellite provisioning design and installation support for on-site installers.
-  Maintained technical support knowledge base and database maintenance.
-  Core contributor to help desk training documentation.
-  Provided specialist escalation for level 1 support.
-  Reporting on fault tracking and service restoration metrics.
+Facilitated B2B and B2C support across commercial and consumer products.
+
+Coached Level 1 and 2 Support agents across the Activ8me product suite and lower level satellite technology.
+
+Provided IP site-specific satellite provisioning design and installation support for on-site installers.
+
+Maintained technical support knowledge base and database maintenance.
+
+Core contributor to help desk training documentation.
+
+Provided specialist escalation for level 1 support.
+
+Reporting on fault tracking and service restoration metrics.
 
 ##
 __Level 1 Helpdesk Support__
