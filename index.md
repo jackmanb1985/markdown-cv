@@ -15,7 +15,7 @@ Linkedin: <a href="www.linkedin.com/in/braden-jackman">braden-jackman</a>
 
 Experienced IT professional with a demonstrated 10+ years of working in Telco, Media and Cloud technologies. Well versed in developing and implementing multi-cloud deployments, container management, and automation pipelines. At Telstra, I've delivered ansible based cloud infrastructure automation using containerised services with a realised resource time saving of >90%. Seeking to continue leveraging and growing my DevOps skillset in the cloud infrastructure stack with a constantly evolving skillset on the latest open source technologies.
 
-### Hard Skills
+## Hard Skills
 
 Red Hat Linux Administration, Red Hat Satellite, OpenStack (OSP), AWS, GCP, Ansible and Ansible Tower, Docker and Containerisation, Kubernetes, Terraform, GoCD, Git, Jenkins, Bamboo, Python & Shell Scripting, Apache, NGINX, VMWare ESXi
 
@@ -24,7 +24,9 @@ Red Hat Linux Administration, Red Hat Satellite, OpenStack (OSP), AWS, GCP, Ansi
 
 
 `Dec-2008 - Present`
-Technology Specialist - __Telstra__, Melbourne, AU
+__Telstra__, Melbourne, AU
+
+Technology Specialist 
 
 - Design and implementation of  80+ host NFV container platform providing highly available, fault-tolerant OSS/BSS services to cloud tenants on a multi-site OpenStack Cloud.
 - Optimisation of tenancy automation suites and DevOps stack, reducing delivery timelines by up to 85%.
@@ -40,7 +42,9 @@ Technology Specialist - __Telstra__, Melbourne, AU
 - Executed interoperability testing with core and edge (CE, PE) network infrastructure (Tellabs, Cisco CRS). MPLS LDP, TE & QoS utilising  Spirent Avalanche and IXIA IxLoad.
 
 
-__Australian Private Networks - Activ8me__ Melbourne, AU - Level 2 Technical Support
+__Australian Private Networks - Activ8me__ Melbourne, AU
+
+Level 2 Technical Support
 
 - Australian Private Networks - Activ8me
 - Facilitated B2B and B2C support across commercial and consumer products.
