@@ -12,10 +12,10 @@ Linkedin: <a href="https://www.linkedin.com/in/braden-jackman/">braden-jackman</
 </div>
 
 ## Summary
-Experienced IT professional with a demonstrated 10+ years of working in Telco, Media and Cloud technologies. Well versed in developing and implementing multi-cloud deployments, container management, and automation pipelines. At Telstra, I've delivered ansible based cloud infrastructure automation using containerised services with a realised resource time saving of >90%. Seeking to continue leveraging and growing my DevOps skillset in the cloud infrastructure stack with a constantly evolving skillset on the latest open source technologies.
+Experienced IT professional with a demonstrated 10+ years of working in Telco, Media and Cloud technologies. Well versed in developing and implementing multi-cloud deployments, container management, and automation pipelines. At Telstra, I've delivered solutions using CI/CD, containerisation, iterative project management, cloud orchestration on NFVi and ansible driven automation with outcomes of realised resource savings of >90%. Seeking to continue leveraging and growing my DevOps skillset in the cloud infrastructure stack with a constantly evolving skillset on the latest open source technologies.
 
 ## Hard Skills
-Red Hat Linux Administration, Red Hat Satellite, OpenStack (OSP), AWS, GCP, Ansible and Ansible Tower, Docker and Containerisation, Kubernetes, Terraform, GoCD, Git, Jenkins, Bamboo, Python & Shell Scripting, Apache, NGINX, VMWare ESXi
+Red Hat Linux Administration, Red Hat Satellite, OpenStack (OSP), AWS, GCP, Ansible and Ansible Tower, Docker and Containerisation, Kubernetes, Terraform, GoCD, Git, Jenkins, Bamboo, Python & Shell Scripting, Apache, NGINX, MySQL, Aspera, VMWare ESXi
 
 ## Experience
 __Technology Specialist__
@@ -39,7 +39,7 @@ Orchestrated platform migration and redesign of critical AFL video content manag
 
 Optimisation of video encode workflows with a 4x faster than real-time result from delivery to presentation. Improvements included improved quality with a realised reduction of consumed bandwidth (profile tuning).
 
-Designed and implemented platform architecture of a high-speed file transfer and sharing platform utilising best in market high-speed transfer protocols (Aspera).  Designed for implementation on the Telstra Digital Video Network.
+Designed and implemented platform architecture of a high-speed file transfer and sharing platform utilising best in market high-speed file transfer protocols (Aspera).  Designed for implementation on the Telstra Digital Video Network.
 
 Constructed and lifecycle engineering of Telstra TBox Device Management System, registration portal and associated widget apps serving at peak of operation 700K devices.
 
@@ -53,20 +53,13 @@ __Level 2 Technical Support__
 
 __Australian Private Networks - Activ8me__ Melbourne, AU
 
-Facilitated B2B and B2C support across commercial and consumer products.
-
-Coached Level 1 and 2 Support agents across the Activ8me product suite and lower level satellite technology.
-
-Provided IP site-specific satellite provisioning design and installation support for on-site installers.
-
-Maintained technical support knowledge base and database maintenance.
-
-Main contributor to help desk training documentation.
-
-Provided specialist escalation for level 1 support.
-
-Reporting on fault tracking and service restoration metrics.
-
+Facilitated B2B and B2C support across commercial and consumer products.\
+Coached Level 1 and 2 Support agents across the Activ8me product suite and lower level satellite technology.\
+Provided IP site-specific satellite provisioning design and installation support for on-site installers.\
+Maintained technical support knowledge base and database maintenance.\
+Main contributor to help desk training documentation.\
+Provided specialist escalation for level 1 support.\
+Reporting on fault tracking and service restoration metrics.\
 
 __Level 1 Helpdesk Support__
 `2006 - 2007`
@@ -83,7 +76,6 @@ Provided remote system management for back office Windows servers and POS system
 
 Maintained and contributed to the technical support knowledge base and database maintenance.
 
-
 ## Courses
 Juniper Network Automation using Contrail Cloud
 
@@ -99,14 +91,12 @@ VMWare ESX 5
 
 Cisco CCNA/CCNP
 
-
 ## Education
 __RMIT University__
 
 Adv. Diploma Computer Systems - Engineering
 
 Computer Systems Networking and Telecommunications
-
 
 ## Additional Activities
 __Kitchen Hand__
