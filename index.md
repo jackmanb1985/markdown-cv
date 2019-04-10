@@ -47,8 +47,8 @@ Constructed and operated a video encode workflow platform, providing high speed 
 
 Executed interoperability testing with core and edge (CE, PE) network infrastructure (Tellabs, Cisco CRS). MPLS LDP, TE & QoS utilising  Spirent Avalanche and IXIA IxLoad.
 
-<p>
-  
+<br>
+<br>
 __Level 2 Technical Support__
 `2007 - Dec-2008`
 
@@ -68,7 +68,9 @@ Provided specialist escalation for level 1 support.
 
 Reporting on fault tracking and service restoration metrics.
 
-## 
+
+<br>
+<br>
 __Level 1 Helpdesk Support__
 `2006 - 2007`
 
