@@ -11,16 +11,12 @@ Linkedin: <a href="www.linkedin.com/in/braden-jackman">braden-jackman</a>
 </div>
 
 ## Summary
-
 Experienced IT professional with a demonstrated 10+ years of working in Telco, Media and Cloud technologies. Well versed in developing and implementing multi-cloud deployments, container management, and automation pipelines. At Telstra, I've delivered ansible based cloud infrastructure automation using containerised services with a realised resource time saving of >90%. Seeking to continue leveraging and growing my DevOps skillset in the cloud infrastructure stack with a constantly evolving skillset on the latest open source technologies.
 
 ## Hard Skills
-
 Red Hat Linux Administration, Red Hat Satellite, OpenStack (OSP), AWS, GCP, Ansible and Ansible Tower, Docker and Containerisation, Kubernetes, Terraform, GoCD, Git, Jenkins, Bamboo, Python & Shell Scripting, Apache, NGINX, VMWare ESXi
 
-
 ## Experience
-
 __Technology Specialist__
 `Dec-2008 - Present`
 __Telstra__, Melbourne, AU
@@ -59,30 +55,22 @@ __Bill Express__ Melbourne, AU
 
 ## Courses
 Juniper Network Automation using Contrail Cloud
-
 Red Hat OpenStack Administration I - OSP13 (CL110) 
-
 Red Hat Certified System Administrator (RH200)
-
 Automation with Ansible (DO407) 
-
 Red Hat Satellite 6 Administration (RH403)
-
 VMWare ESX 5
-
 Cisco CCNA/CCNP
 
-
 ## Education
-
 __RMIT University__
 Adv. Diploma Computer Systems - Engineering
+
 Computer Systems Networking and Telecommunications
 
-
 ## Additional Activities
-
-Kitchen Hand - __ FareShare__, Melbourne AU
+__Kitchen Hand__
+__FareShare__, Melbourne AU
 
 - Food waste, hunger and poverty are not a necessity in our society. Unnecessary food waste should not be ignored and FareShare is fighting hunger through food rescue. FareShare is moving the needle on food waste and feeding those in need.  I have been involved with FareShare since 2011 as a part-time food rescue kitchen hand. Preparing and packaging meals with duties including sous vide meal packaging, preparing and baking savoury pastries and mise en place.
 
