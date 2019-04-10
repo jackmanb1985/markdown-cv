@@ -115,10 +115,13 @@ Adv. Diploma Computer Systems - Engineering
 Computer Systems Networking and Telecommunications
 
 ## Additional Activities
-__Volunteer__
+__Volunteer__ 
+`2011 - Present`
 
 __FareShare__ Melbourne AU
 
-Food waste, hunger and poverty are not a necessity in our society. Unnecessary food waste should not be ignored and FareShare is fighting hunger through food rescue. FareShare is moving the needle on food waste and feeding those in need.  I have been involved with FareShare since 2011 as a part-time food rescue kitchen hand. Preparing and packaging meals with duties including sous vide meal packaging, preparing and baking savoury pastries and mise en place.
+Food waste, hunger and poverty are not a necessity in our society and unnecessary food waste should not be ignored. FareShare is fighting hunger through food rescue by moving the needle on food waste and feeding those in need.  
+
+Volunteering at FareShare since 2011 as a part-time food rescue kitchen hand includes preparing and packaging meals for thsoe in need. A typical shift comprises of sous vide meal packaging, preparing and baking savoury pastries and mise en place.
 
 <!-- ### Footer Last updated: 10042019 -->
