@@ -15,7 +15,7 @@ Linkedin: <a href="https://www.linkedin.com/in/braden-jackman/">braden-jackman</
 Experienced IT professional with a demonstrated 10+ years of working in Telco, Media and Cloud technologies. Well versed in developing and implementing multi-cloud deployments, container management, and automation pipelines. At Telstra, I've delivered solutions using CI/CD, containerisation, iterative project management, cloud orchestration on NFVi and ansible driven automation with outcomes of realised resource savings of >90%. Seeking to continue leveraging and growing my DevOps skillset in the cloud infrastructure stack on the latest open source technologies.
 
 ## Hard Skills
-Red Hat Linux Administration, Red Hat Satellite, OpenStack (OSP), AWS, GCP, Ansible and Ansible Tower, Docker and Containerisation, Kubernetes, Terraform, GoCD, Git, Jenkins, Bamboo, Python & Shell Scripting, Apache, NGINX, MySQL, Aspera, VMWare ESXi
+Red Hat Linux Administration, OpenStack (OSP), AWS, GCP, Ansible and Ansible Tower, Docker and Containerisation, Kubernetes, Terraform, GoCD, Git, Jenkins, Bamboo, Python & Shell Scripting, Red Hat Satellite, Apache, NGINX, Varnish, MySQL, Aspera, VMWare ESXi
 
 ## Experience
 __Technology Specialist__
@@ -109,9 +109,9 @@ Adv. Diploma Computer Systems - Engineering
 Computer Systems Networking and Telecommunications
 
 ## Additional Activities
-__Kitchen Hand__
+__Volunteer__
 
-__FareShare__, Melbourne AU
+__FareShare__ Melbourne AU
 
 Food waste, hunger and poverty are not a necessity in our society. Unnecessary food waste should not be ignored and FareShare is fighting hunger through food rescue. FareShare is moving the needle on food waste and feeding those in need.  I have been involved with FareShare since 2011 as a part-time food rescue kitchen hand. Preparing and packaging meals with duties including sous vide meal packaging, preparing and baking savoury pastries and mise en place.
 
