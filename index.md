@@ -8,7 +8,7 @@ Network Engineer - NFVi Software and Automation
 <div id="webaddress">
 Phone: <a href="tel: +61 418 861 876">+61 418 861 876</a><br>
 Email: <a href="mailto: braden.jackman1985@gmail.com">braden.jackman1985@gmail.com</a><br>
-Linkedin: <a href="https://www.linkedin.com/in/braden-jackman/">braden-jackman</a><br>
+Linkedin: <a href="https://www.linkedin.com/in/braden-jackman/">https://www.linkedin.com/in/braden-jackma</a><br>
 </div>
 
 ## Summary
