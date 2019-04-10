@@ -5,9 +5,11 @@ title: Braden's CV
 # BRADEN JACKMAN
 Network Engineer - NFVi Software and Automation
 
-<div id="webaddress">
+
+Phone <a href="+61 418 861 876">
 Email: <a href="braden.jackman1985@gmail.com">braden.jackman1985@gmail.com</a> 
-Linkedin: <a href="www.linkedin.com/in/braden-jackman">braden-jackman</a>
+<div id="webaddress">
+Linkedin: <a href="https://www.linkedin.com/in/braden-jackman/">braden-jackman</a>
 </div>
 
 
