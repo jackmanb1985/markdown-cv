@@ -31,7 +31,7 @@ Implemented ansible based cloud infrastructure deployment automation with a reso
 
 Produced container images of open source software to deliver solutions with 12 factor app design principles (build, config, logging.) 
 
-Management and influencing stakeholder expectations through cloud product delivery phases (build, lifecycle and operate).
+Managing and influencing stakeholder expectations through cloud product delivery phases (build, lifecycle and operate).
 
 Design and delivery of a highly available data migration solution with a realised cost saving of $1M+ utilising alternate technologies to traditional storage migration solutions.
 
