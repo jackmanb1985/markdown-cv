@@ -12,7 +12,7 @@ Linkedin: <a href="https://www.linkedin.com/in/braden-jackman/">braden-jackman</
 </div>
 
 ## Summary
-Experienced IT professional with a demonstrated 10+ years of working in Telco, Media and Cloud technologies. Well versed in developing and implementing multi-cloud deployments, container management, and automation pipelines. At Telstra, I've delivered solutions using CI/CD, containerisation, iterative project management, cloud orchestration on NFVi and ansible driven automation with outcomes of realised resource savings of >90%. Seeking to continue leveraging and growing my DevOps skillset in the cloud infrastructure stack with a constantly evolving skillset on the latest open source technologies.
+Experienced IT professional with a demonstrated 10+ years of working in Telco, Media and Cloud technologies. Well versed in developing and implementing multi-cloud deployments, container management, and automation pipelines. At Telstra, I've delivered solutions using CI/CD, containerisation, iterative project management, cloud orchestration on NFVi and ansible driven automation with outcomes of realised resource savings of >90%. Seeking to continue leveraging and growing my DevOps skillset in the cloud infrastructure stack on the latest open source technologies.
 
 ## Hard Skills
 Red Hat Linux Administration, Red Hat Satellite, OpenStack (OSP), AWS, GCP, Ansible and Ansible Tower, Docker and Containerisation, Kubernetes, Terraform, GoCD, Git, Jenkins, Bamboo, Python & Shell Scripting, Apache, NGINX, MySQL, Aspera, VMWare ESXi
