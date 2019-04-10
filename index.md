@@ -46,7 +46,8 @@ Constructed and lifecycle engineering of Telstra TBox Device Management System, 
 Constructed and operated a video encode workflow platform, providing high speed to market content delivery solutions for the following clients: NRL, AFL, Vic Racing, Sky News, Netball Australia.
 
 Executed interoperability testing with core and edge (CE, PE) network infrastructure (Tellabs, Cisco CRS). MPLS LDP, TE & QoS utilising  Spirent Avalanche and IXIA IxLoad.
-<br>
+
+<p>
 __Level 2 Technical Support__
 `2007 - Dec-2008`
 
