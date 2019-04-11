@@ -30,31 +30,31 @@ __Telstra__ Melbourne, AU
 
 \- Implemented ansible based cloud infrastructure deployment automation with a resource time saving of >90%.
 
--Produced container images of open source software to deliver solutions with the 12-factor app and cloud-native design principles. E.g. Build, config, logging.
+\- Produced container images of open source software to deliver solutions with the 12-factor app and cloud-native design principles. E.g. Build, config, logging.
 
--Contributed to NFV architecture and platform design for shared NFV infrastructure in line with Telstra's Cloud/NFV strategy and cloud-first design principles. Software selection and implementation patterns for common Telstra OSS tools including log aggregation, package management and licencing, NTP, SMTP and telemetry.
+\- Contributed to NFV architecture and platform design for shared NFV infrastructure in line with Telstra's Cloud/NFV strategy and cloud-first design principles. Software selection and implementation patterns for common Telstra OSS tools including log aggregation, package management and licencing, NTP, SMTP and telemetry.
 
--Managing and influencing stakeholder expectations through cloud product delivery phases of build, lifecycle and operate.
+\- Managing and influencing stakeholder expectations through cloud product delivery phases of build, lifecycle and operate.
 
--Vendor management for cloud infrastructure environment, aligning lifecycle release phases, capability and emergency patching in line with Telstra's key delivery milestones.
+\- Vendor management for cloud infrastructure environment, aligning lifecycle release phases, capability and emergency patching in line with Telstra's key delivery milestones.
 
--Design and delivery of a highly available data migration solution with a realised cost saving of $1M+. Utilising alternate technologies to traditional storage migration solutions (Aspera).
+\- Design and delivery of a highly available data migration solution with a realised cost saving of $1M+. Utilising alternate technologies to traditional storage migration solutions (Aspera).
 
--Implemented and designed multi-site architecture for legacy platform migrations from virtualisation to cloud. Providing fault tolerance and high availability using solutions including F5 Big-IP GTM and ASM for geo-redundancy and security, Ansible idempotent deployments and Heat Orchestration and containerisation.
+\- Implemented and designed multi-site architecture for legacy platform migrations from virtualisation to cloud. Providing fault tolerance and high availability using solutions including F5 Big-IP GTM and ASM for geo-redundancy and security, Ansible idempotent deployments and Heat Orchestration and containerisation.
 
--Constructed and administered CI/CD driven Kubernetes orchestrated container based deployment on AWS.  Driven via Bamboo based application pipelines, terraform and Ansible.  Accelerated app deployments by 60% per Agile sprint.
+\- Constructed and administered CI/CD driven Kubernetes orchestrated container based deployment on AWS.  Driven via Bamboo based application pipelines, terraform and Ansible.  Accelerated app deployments by 60% per Agile sprint.
 
--Orchestrated platform migration and redesign of critical video content management systems for the Australian Football League (AFL). Providing operational availability of five 9's and >12x performance improvements realised through migration.
+\- Orchestrated platform migration and redesign of critical video content management systems for the Australian Football League (AFL). Providing operational availability of five 9's and >12x performance improvements realised through migration.
 
--Optimisation of video encoding workflows with a 4x faster than real-time result from asset delivery to content presentation. Enhancements include improved quality and a realised reduction of consumed bandwidth through profile tuning.
+\- Optimisation of video encoding workflows with a 4x faster than real-time result from asset delivery to content presentation. Enhancements include improved quality and a realised reduction of consumed bandwidth through profile tuning.
 
--Architectural design and implementation of file distribution and sharing platform utilising best in market high-speed file transfer protocols (Aspera).  Designed specifically for implementation on the Telstra Digital Video Network.
+\- Architectural design and implementation of file distribution and sharing platform utilising best in market high-speed file transfer protocols (Aspera).  Designed specifically for implementation on the Telstra Digital Video Network.
 
--Construction and lifecycle engineering of Telstra T-Box device management system, registration portal and associated widget apps. Serving at peak of operation 700K devices across Australia.
+\- Construction and lifecycle engineering of Telstra T-Box device management system, registration portal and associated widget apps. Serving at peak of operation 700K devices across Australia.
 
--Engineered and operated a video encode workflow platform, providing high speed to market content delivery solutions including the following clients: NRL, AFL, Vic Racing, Sky News, Netball Australia.
+\- Engineered and operated a video encode workflow platform, providing high speed to market content delivery solutions including the following clients: NRL, AFL, Vic Racing, Sky News, Netball Australia.
 
--Executed interoperability testing with core and edge (CE, PE) network infrastructure (Tellabs, Cisco CRS). MPLS LDP, TE & QoS utilising  Spirent Avalanche and IXIA IxLoad.
+\- Executed interoperability testing with core and edge (CE, PE) network infrastructure (Tellabs, Cisco CRS). MPLS LDP, TE & QoS utilising  Spirent Avalanche and IXIA IxLoad.
 
 <br>
 <br>
@@ -63,19 +63,19 @@ __Level 2 Technical Support__
 
 __Australian Private Networks - Activ8me__ Melbourne, AU
 
-Facilitated B2B and B2C support across commercial and consumer products.
+\- Facilitated B2B and B2C support across commercial and consumer products.
 
-Coached Level 1 and 2 Support agents across the Activ8me product suite and lower level satellite technology.
+\- Coached Level 1 and 2 Support agents across the Activ8me product suite and lower level satellite technology.
 
-Provided IP site-specific satellite provisioning design and installation support for on-site installers.
+\- Provided IP site-specific satellite provisioning design and installation support for on-site installers.
 
-Maintained technical support knowledge base and database maintenance.
+\- Maintained technical support knowledge base and database maintenance.
 
-Core contributor to help desk training documentation.
+\- Core contributor to help desk training documentation.
 
-Provided specialist escalation for level 1 support.
+\- Provided specialist escalation for level 1 support.
 
-Reporting on fault tracking and service restoration metrics.
+\- Reporting on fault tracking and service restoration metrics.
 
 
 <br>
@@ -85,15 +85,15 @@ __Level 1 Helpdesk Support__
 
 __Bill Express__ Melbourne, AU
 
-Level 1 Caltex fuel station business system support.
+\- Level 1 Caltex fuel station business system support.
 
-Operational technical support for point of sale, back office and fuel systems.
+\- Operational technical support for point of sale, back office and fuel systems.
 
-Tracked hardware swap-out and SLA reporting of on-site equipment.
+\- Tracked hardware swap-out and SLA reporting of on-site equipment.
 
-Provided remote system management for back office Windows servers and POS systems.
+\- Provided remote system management for back office Windows servers and POS systems.
 
-Maintained and contributed to the technical support knowledge base and database maintenance.
+\- Maintained and contributed to the technical support knowledge base and database maintenance.
 
 ## Courses
 Juniper Network Automation using Contrail Cloud
@@ -127,4 +127,4 @@ Food waste, hunger and poverty are not a necessity in our society and unnecessar
 
 Volunteering at FareShare since 2011 as a part-time food rescue kitchen hand includes preparing and packaging meals for thsoe in need. A typical shift comprises of sous vide meal packaging, preparing and baking savoury pastries and mise en place.
 
-<!-- ### Footer Last updated: 11042019 -->
+<!-- ### Footer Last updated: 11042019_1417 -->
