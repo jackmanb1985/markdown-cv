@@ -24,11 +24,11 @@ __Technology Specialist__
 
 __Telstra__ Melbourne, AU
 
--Design and implementation of 80+ host NFV container platform providing highly available, fault-tolerant OSS/BSS services to cloud tenants on a multi-site NFVi OpenStack Cloud.
+- Design and implementation of 80+ host NFV container platform providing highly available, fault-tolerant OSS/BSS services to cloud tenants on a multi-site NFVi OpenStack Cloud.
 
--Optimisation of tenancy automation suites and DevOps stack, reducing delivery timelines by up to 85%.
+- Optimisation of tenancy automation suites and DevOps stack, reducing delivery timelines by up to 85%.
 
--Implemented ansible based cloud infrastructure deployment automation with a resource time saving of >90%.
+- Implemented ansible based cloud infrastructure deployment automation with a resource time saving of >90%.
 
 -Produced container images of open source software to deliver solutions with the 12-factor app and cloud-native design principles. E.g. Build, config, logging.
 
