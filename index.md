@@ -42,7 +42,7 @@ __Telstra__ Melbourne, AU
 
 \- Implemented and designed multi-site architecture for legacy platform migrations from virtualisation to cloud. Providing fault tolerance and high availability using solutions including F5 Big-IP GTM and ASM for geo-redundancy and security, Ansible idempotent deployments and Heat Orchestration and containerisation.
 
-\- Constructed and administered CI/CD driven Kubernetes orchestrated container based deployment on AWS.  Driven via Bamboo based application pipelines, terraform and Ansible.  Accelerated app deployments by 60% per Agile sprint.
+\- Constructed and administered CI/CD driven Kubernetes based container deployment on AWS.  Driven via Bamboo build pipelines, Terraform and Ansible.  Accelerated app deployment cycles by 60% per Agile sprint.
 
 \- Orchestrated platform migration and redesign of critical video content management systems for the Australian Football League (AFL). Providing operational availability of five 9's and >12x performance improvements realised through migration.
 
