@@ -30,11 +30,11 @@ Optimisation of tenancy automation suites and DevOps stack, reducing delivery ti
 
 Implemented ansible based cloud infrastructure deployment automation with a resource time saving of >90%.
 
-Produced container images of open source software to deliver solutions with 12 factor app and cloud-native design principles (build, config, logging).
+Produced container images of open source software to deliver solutions with the 12-factor app and cloud-native design principles. E.g. Build, config, logging.
 
 Contributed to NFV architecture and platform design for shared NFV infrastructure in line with Telstra's Cloud/NFV strategy and cloud-first design principles. Software selection and implementation patterns for common Telstra OSS tools including log aggregation, package management and licencing, NTP, SMTP and telemetry.
 
-Managing and influencing stakeholder expectations through cloud product delivery phases (build, lifecycle and operate).
+Managing and influencing stakeholder expectations through cloud product delivery phases of build, lifecycle and operate.
 
 Vendor management for cloud infrastructure environment, aligning lifecycle release phases, capability and emergency patching in line with Telstra's key delivery milestones.
 
@@ -42,9 +42,11 @@ Design and delivery of a highly available data migration solution with a realise
 
 Implemented and designed multi-site architecture for legacy platform migrations from virtualisation to cloud. Providing fault tolerance and high availability using solutions including F5 Big-IP GTM and ASM for geo-redundancy and security, Ansible idempotent deployments and Heat Orchestration and containerisation.
 
+Constructed and administered CI/CD driven Kubernetes orchestrated container based deployment on AWS.  Driven via Bamboo based application pipelines, terraform and Ansible.  Accelerated app deployments by 60% per Agile sprint.
+
 Orchestrated platform migration and redesign of critical video content management systems for the Australian Football League (AFL). Providing operational availability of five 9's and >12x performance improvements realised through migration.
 
-Optimisation of video encode workflows with a 4x faster than real-time result from delivery to presentation. Enhancements include improved quality and a realised reduction of consumed bandwidth (profile tuning).
+Optimisation of video encoding workflows with a 4x faster than real-time result from asset delivery to content presentation. Enhancements include improved quality and a realised reduction of consumed bandwidth through profile tuning.
 
 Architectural design and implementation of file distribution and sharing platform utilising best in market high-speed file transfer protocols (Aspera).  Designed specifically for implementation on the Telstra Digital Video Network.
 
