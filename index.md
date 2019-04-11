@@ -127,4 +127,4 @@ Food waste, hunger and poverty are not a necessity in our society and unnecessar
 
 Volunteering at FareShare since 2011 as a part-time food rescue kitchen hand includes preparing and packaging meals for thsoe in need. A typical shift comprises of sous vide meal packaging, preparing and baking savoury pastries and mise en place.
 
-<!-- ### Footer Last updated: 10042019 -->
+<!-- ### Footer Last updated: 11042019 -->
