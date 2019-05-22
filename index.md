@@ -56,13 +56,15 @@ __Australian Private Networks - Activ8me__ Melbourne, AU - Level 2 Technical Sup
 
 
 ## Courses
-Juniper Network Automation using Contrail Cloud
+Red Hat OpenStack Administration I - OSP13 (CL110)
 
-Red Hat OpenStack Administration I - OSP13 (CL110) 
+Red Hat OpenStack Administration II - OSP13 (CL210)
 
-Red Hat Certified System Administrator (RH200)
+Red Hat Certified System Administrator - RHEL7.5 (RH200)
 
 Automation with Ansible (DO407) 
+
+Juniper Network Automation using Contrail Cloud
 
 Red Hat Satellite 6 Administration (RH403)
 
