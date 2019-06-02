@@ -104,6 +104,8 @@ Red Hat Certified System Administrator - RHEL7.5 (RH200)
 
 Automation with Ansible (DO407) 
 
+Automation with Ansible II: Ansible Tower (DO409)
+
 Juniper Network Automation using Contrail Cloud
 
 Red Hat Satellite 6 Administration (RH403)
