@@ -106,6 +106,8 @@ Automation with Ansible (DO407)
 
 Automation with Ansible II: Ansible Tower (DO409)
 
+Red Hat Ceph Storage Architecture and Administration (CEPH125)
+
 Juniper Network Automation using Contrail Cloud
 
 Red Hat Satellite 6 Administration (RH403)
