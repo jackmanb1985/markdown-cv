@@ -100,11 +100,14 @@ Red Hat Certified System Administrator (RHCSA)
 Credential ID: <a href="https://www.redhat.com/rhtapps/services/verify/?certId=200-001-592">200-001-592</a> Expires: Jan 2023
 
 ## Courses
+
 Red Hat OpenStack Administration I - OSP13 (CL110)
 
 Red Hat OpenStack Administration II - OSP13 (CL210)
 
 Red Hat Certified System Administrator - RHEL7.5 (RH200)
+
+Red Hat System Administration III: Linux Automation with Ansible (RH294)
 
 Automation with Ansible (DO407) 
 
