@@ -95,6 +95,10 @@ __Bill Express__ Melbourne, AU
 
 \- Maintained and contributed to the technical support knowledge base and database maintenance.
 
+## Certifications
+Red Hat Certified System Administrator (RHCSA)
+Credential ID: <a href="https://www.redhat.com/rhtapps/services/verify/?certId=200-001-592">200-001-592</a> Expires: Jan 2023
+
 ## Courses
 Red Hat OpenStack Administration I - OSP13 (CL110)
 
